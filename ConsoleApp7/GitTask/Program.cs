@@ -1,1 +1,1 @@
-﻿Console.WriteLine("ГАв ГАв!");
+﻿Console.WriteLine("ГАв ГАв ГАв !");
